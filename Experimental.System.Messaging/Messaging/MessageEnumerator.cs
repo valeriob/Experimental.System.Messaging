@@ -4,13 +4,13 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 using System.Collections;
 using System.ComponentModel;
 using System.Diagnostics.CodeAnalysis;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessageEnumerator.uex' path='docs/doc[@for="MessageEnumerator"]/*' />
     /// <devdoc>

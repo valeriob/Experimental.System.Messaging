@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 using System.Security;
 using UnmanagedType = System.Runtime.InteropServices.UnmanagedType;
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     [ComImport, Guid("0FB15084-AF41-11CE-BD2B-204C4F4F5020"), InterfaceTypeAttribute(ComInterfaceType.InterfaceIsIUnknown)]
     internal interface ITransaction

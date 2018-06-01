@@ -4,7 +4,7 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -14,7 +14,7 @@ using System.IO;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\Message.uex' path='docs/doc[@for="Message"]/*' />
     /// <devdoc>

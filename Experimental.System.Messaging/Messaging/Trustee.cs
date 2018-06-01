@@ -1,4 +1,4 @@
-using Experimental.System.Messaging;
+using System.Messaging;
 using System.ComponentModel;
 
 namespace System.Messaging

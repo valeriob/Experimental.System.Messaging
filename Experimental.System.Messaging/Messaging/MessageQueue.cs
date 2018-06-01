@@ -4,7 +4,7 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -18,7 +18,7 @@ using System.Text;
 using System.Threading;
 using System.Transactions;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessageQueue.uex' path='docs/doc[@for="MessageQueue"]/*' />
     /// <devdoc>

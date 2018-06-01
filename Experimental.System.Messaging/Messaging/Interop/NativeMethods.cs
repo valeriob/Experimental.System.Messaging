@@ -8,7 +8,7 @@ using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     [ComVisible(false)]
     internal static class NativeMethods

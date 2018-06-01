@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\GenericAccessRights.uex' path='docs/doc[@for="GenericAccessRights"]/*' />
     /// <devdoc>

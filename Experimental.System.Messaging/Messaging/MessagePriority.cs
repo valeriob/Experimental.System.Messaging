@@ -4,7 +4,7 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessagePriority.uex' path='docs/doc[@for="MessagePriority"]/*' />
     /// <devdoc>

@@ -4,10 +4,10 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System.Diagnostics.CodeAnalysis;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\CryptographicProviderType.uex' path='docs/doc[@for="CryptographicProviderType"]/*' />
     /// <devdoc>

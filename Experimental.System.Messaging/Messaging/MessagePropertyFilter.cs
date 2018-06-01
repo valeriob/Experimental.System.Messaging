@@ -7,7 +7,7 @@
 using System;
 using System.ComponentModel;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessagePropertyFilter.uex' path='docs/doc[@for="MessagePropertyFilter"]/*' />
     /// <devdoc>

@@ -1,6 +1,6 @@
 using System;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\StandardAccessRights.uex' path='docs/doc[@for="StandardAccessRights"]/*' />
     /// <devdoc>

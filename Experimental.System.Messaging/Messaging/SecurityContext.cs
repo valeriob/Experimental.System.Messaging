@@ -4,10 +4,10 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     public sealed class SecurityContext : IDisposable
     {

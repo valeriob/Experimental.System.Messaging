@@ -6,7 +6,7 @@
 
 using System.Diagnostics.CodeAnalysis;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessageType.uex' path='docs/doc[@for="MessageType"]/*' />
     /// <devdoc>

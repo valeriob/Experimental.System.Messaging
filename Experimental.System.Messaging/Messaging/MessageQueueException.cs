@@ -4,7 +4,7 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
@@ -13,7 +13,7 @@ using System.Runtime.Serialization;
 using System.Security;
 using System.Text;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessageQueueException.uex' path='docs/doc[@for="MessageQueueException"]/*' />
     /// <devdoc>

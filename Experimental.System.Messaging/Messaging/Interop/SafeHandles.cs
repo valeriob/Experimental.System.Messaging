@@ -7,7 +7,7 @@
 using Microsoft.Win32.SafeHandles;
 using System;
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     internal class MessageQueueHandle : SafeHandleZeroOrMinusOneIsInvalid
     {

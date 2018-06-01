@@ -4,7 +4,7 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessageQueueTransactionStatus.uex' path='docs/doc[@for="MessageQueueTransactionStatus"]/*' />
     /// <devdoc>

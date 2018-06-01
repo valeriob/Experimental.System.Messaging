@@ -1,4 +1,4 @@
-﻿namespace Experimental.System
+﻿namespace System
 {
     internal static class AssemblyRef
     {

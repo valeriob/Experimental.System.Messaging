@@ -7,7 +7,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     [ComImport(),
     Guid("0000000C-0000-0000-C000-000000000046"),

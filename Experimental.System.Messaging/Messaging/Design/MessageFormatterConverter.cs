@@ -12,7 +12,7 @@ using System.Messaging;
 using System.Reflection;
 using System.Runtime.Serialization.Formatters;
 
-namespace Experimental.System.Messaging.Design
+namespace System.Messaging.Design
 {
     /// <include file='doc\MessageFormatterConverter.uex' path='docs/doc[@for="MessageFormatterConverter"]/*' />
     /// <internalonly/>

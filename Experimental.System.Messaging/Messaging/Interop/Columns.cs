@@ -9,7 +9,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.Globalization; //for CultureInfo
 using System.Runtime.InteropServices;
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     internal class Columns
     {

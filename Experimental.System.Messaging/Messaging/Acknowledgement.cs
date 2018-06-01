@@ -4,9 +4,9 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\Acknowledgement.uex' path='docs/doc[@for="Acknowledgment"]/*' />
     /// <devdoc>

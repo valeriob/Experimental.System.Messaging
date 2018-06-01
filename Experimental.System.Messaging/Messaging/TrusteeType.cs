@@ -1,4 +1,4 @@
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\TrusteeType.uex' path='docs/doc[@for="TrusteeType"]/*' />
     /// <devdoc>

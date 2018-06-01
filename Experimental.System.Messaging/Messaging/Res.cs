@@ -1,4 +1,4 @@
-﻿namespace Experimental.System.Messaging
+﻿namespace System.Messaging
 {
     internal static class Res
     {

@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace Experimental.System.Messaging.Test
+namespace System.Messaging.Test
 {
     [TestClass]
     public class QueueClientTest

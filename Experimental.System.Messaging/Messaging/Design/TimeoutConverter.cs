@@ -9,7 +9,7 @@ using System.ComponentModel;
 using System.Globalization;
 using System.Messaging;
 
-namespace Experimental.System.Messaging.Design
+namespace System.Messaging.Design
 {
     /// <include file='doc\TimeoutConverter.uex' path='docs/doc[@for="TimeoutConverter"]/*' />
     /// <devdoc>

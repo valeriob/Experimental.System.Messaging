@@ -10,7 +10,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\BinaryMessageFormatter.uex' path='docs/doc[@for="BinaryMessageFormatter"]/*' />
     /// <devdoc>

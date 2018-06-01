@@ -4,7 +4,7 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     // <summary>
     //    Represents the signature of the callback that will

@@ -4,13 +4,13 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\ActiveXMessageFormatter.uex' path='docs/doc[@for="ActiveXMessageFormatter"]/*' />
     /// <devdoc>

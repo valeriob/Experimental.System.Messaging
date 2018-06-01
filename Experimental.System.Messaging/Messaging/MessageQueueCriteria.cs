@@ -4,12 +4,12 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 using System.ComponentModel;
 using System.Globalization; //for CultureInfo
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessageQueueCriteria.uex' path='docs/doc[@for="MessageQueueCriteria"]/*' />
     /// <devdoc>

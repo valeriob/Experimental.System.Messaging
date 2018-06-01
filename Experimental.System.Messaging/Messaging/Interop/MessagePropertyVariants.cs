@@ -8,7 +8,7 @@ using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     // definition for tagMQPROPVARIANT
     [StructLayout(LayoutKind.Explicit)]

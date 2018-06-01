@@ -7,7 +7,7 @@
 using System;
 using System.ComponentModel;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\IMessageFormatter.uex' path='docs/doc[@for="IMessageFormatter"]/*' />
     /// <devdoc>

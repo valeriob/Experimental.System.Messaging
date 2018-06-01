@@ -12,7 +12,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\XmlMessageFormatter.uex' path='docs/doc[@for="XmlMessageFormatter"]/*' />
     /// <devdoc>

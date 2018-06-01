@@ -10,7 +10,7 @@ using System.Security;
 using System.Text;
 using System.Threading;
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     [ComVisible(false),
     SuppressUnmanagedCodeSecurityAttribute()]

@@ -6,7 +6,7 @@
 
 using System;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\PeekCompletedEventArgs.uex' path='docs/doc[@for="PeekCompletedEventArgs"]/*' />
     /// <devdoc>

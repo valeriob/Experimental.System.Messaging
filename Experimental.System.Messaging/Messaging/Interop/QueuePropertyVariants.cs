@@ -4,7 +4,7 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-namespace Experimental.System.Messaging.Interop
+namespace System.Messaging.Interop
 {
     internal class QueuePropertyVariants : MessagePropertyVariants
     {

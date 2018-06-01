@@ -10,7 +10,7 @@ using System.ComponentModel;
 using System.Globalization;
 using System.Messaging;
 
-namespace Experimental.System.Messaging.Design
+namespace System.Messaging.Design
 {
     /// <include file='doc\MessageQueueConverter.uex' path='docs/doc[@for="MessageQueueConverter"]/*' />
     /// <internalonly/>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Experimental.System.Messaging.Test
+namespace System.Messaging.Test
 {
     public sealed class Order
     {

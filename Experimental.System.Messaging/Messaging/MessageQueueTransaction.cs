@@ -4,11 +4,11 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System;
 using System.Threading;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\MessageQueueTransaction.uex' path='docs/doc[@for="MessageQueueTransaction"]/*' />
     /// <devdoc>

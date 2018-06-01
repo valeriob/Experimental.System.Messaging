@@ -4,11 +4,11 @@
 // </copyright>                                                                
 //------------------------------------------------------------------------------
 
-using Experimental.System.Messaging.Interop;
+using System.Messaging.Interop;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 
-namespace Experimental.System.Messaging
+namespace System.Messaging
 {
     /// <include file='doc\QueueAccessMode.uex' path='docs/doc[@for="QueueAccessMode"]/*' />
     /// <devdoc>
